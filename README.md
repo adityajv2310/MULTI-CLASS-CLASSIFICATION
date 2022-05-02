@@ -1,4 +1,6 @@
-# MULTI-CLASS-CLASSIFICATION
+## EX.NO: 03
+## DATE:
+# <p align="center"> MULTI-CLASS-CLASSIFICATION
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
@@ -44,7 +46,8 @@ pyplot.show()
 ```
 
 ## Output:
-![MULTI CLASS CLASSIFICATION - Jupyter Notebook — Mozilla Firefox 20-04-2022 20_07_03](https://user-images.githubusercontent.com/75235386/164256606-e321edb5-8ad7-44d3-bd82-82d7258f5e10.png)
+![MULTI CLASS CLASSIFICATION - Jupyter Notebook — Mozilla Firefox 20-04-2022 20_07_03 (2)](https://user-images.githubusercontent.com/75235386/166244314-26e64c0d-312f-48d7-8fe2-8e72ac4ad77a.png)
+
 
 
 
